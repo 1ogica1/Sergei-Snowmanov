@@ -1,0 +1,12 @@
+body {
+		background: #000;
+		font-family: Courier New, Courier, Monospace;
+		font-size: 10pt;
+		color: green;
+		line-height: 8pt;
+}
+
+img {
+	max-height: 150px;
+	max-width: 100px;
+}
